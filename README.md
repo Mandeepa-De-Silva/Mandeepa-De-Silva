@@ -52,3 +52,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeepa-de-silva&" alt="mandeepa-de-silva" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" style="width: 100%;" />
