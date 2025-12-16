@@ -57,18 +57,15 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mandeepa-de-silva&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="mandeepa-de-silva" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeepa-de-silva&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="mandeepa-de-silva" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mandeepa-de-silva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeepa-de-silva&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
-
-<br clear="both" />
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeepa-de-silva&theme=radical&hide_border=true&background=0D1117" alt="mandeepa-de-silva" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeepa-de-silva&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
-<br clear="both" />
-
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" style="width: 100%;" />
