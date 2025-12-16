@@ -41,7 +41,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,react,bootstrap,css,tailwind,html,git,maven,gradle,materialui,mongodb,mysql,nodejs,express,spring,github,vscode,postman,postgres,linux,docker)
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeepa-de-silva&show_icons=true&locale=en&layout=compact" alt="mandeepa-de-silva" />
 </p>
 
@@ -51,6 +51,25 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeepa-de-silva&" alt="mandeepa-de-silva" />
+</p> -->
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mandeepa-de-silva&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="mandeepa-de-silva" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeepa-de-silva&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="mandeepa-de-silva" />
 </p>
 
+---
+<br clear="both" />
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeepa-de-silva&theme=radical&hide_border=true&background=0D1117" alt="mandeepa-de-silva" />
+</p>
+
+<br clear="both" />
+
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" style="width: 100%;" />
