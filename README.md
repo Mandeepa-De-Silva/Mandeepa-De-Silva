@@ -62,7 +62,6 @@
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeepa-de-silva&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="mandeepa-de-silva" />
 </p>
 
----
 <br clear="both" />
 
 <p align="center">
